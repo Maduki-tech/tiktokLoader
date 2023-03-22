@@ -8,6 +8,9 @@ def install(package):
 def installffmpeg():
     if platform.system() == 'Darwin':
         subprocess.check_call(["brew", "install", "ffmpeg"])
+    elif platform.system() == 'Windows':
+        print("Please use MacOs or Linux")
+        exit()
 
 if __name__ == '__main__':
     installffmpeg()
