@@ -1,4 +1,0 @@
-tiktokapi
-moviepy
-customtkinter
-CTkMessagebox
