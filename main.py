@@ -45,5 +45,5 @@ def index():
     # return data
 
 
-app.run(host="0.0.0.0");
+app.run(host="https://loader-qh8z.onrender.com", port=80);
 
