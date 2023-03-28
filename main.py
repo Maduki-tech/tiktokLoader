@@ -45,5 +45,5 @@ def index():
     # return data
 
 
-app.run()
+app.run(host="https://tiktokloader.onrender.com");
 
