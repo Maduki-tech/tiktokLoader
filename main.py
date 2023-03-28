@@ -41,9 +41,4 @@ def index():
             return json.dumps(info_full)
         else:
             return json.dumps({"error": "Video not found"})
-    # data = getVideoByURL("https://www.tiktok.com/@aileensager/video/7212075500578147589")
-    # return data
-
-
-app.run(host="https://loader-qh8z.onrender.com", port=80);
 
