@@ -1,33 +1,100 @@
 {
     "extra": {
         "fatal_item_ids": [],
-        "logid": "20230322181424FF3BCCF76BCBA44A3007",
-        "now": 1679508865000
+        "logid": "20230328131550A980A11EAED179AD0AF1",
+        "now": 1680009351000
     },
     "itemInfo": {
         "itemStruct": {
             "author": {
-                "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b638f71eadc18ff6d6cbccb95dffc028~c5_1080x1080.jpeg?x-expires=1679680800&x-signature=kjLRj54oOEpE%2BahkhlpPuyTcEHs%3D",
-                "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b638f71eadc18ff6d6cbccb95dffc028~c5_720x720.jpeg?x-expires=1679680800&x-signature=OWI4ErgvSkfHP2UNOykNkZPDPVc%3D",
-                "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/b638f71eadc18ff6d6cbccb95dffc028~c5_100x100.jpeg?x-expires=1679680800&x-signature=SBUk%2FQntS2EqKiYmBID4LGsqHlc%3D",
+                "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/00420fa39d39698bd0797fb51f287fd5~c5_1080x1080.jpeg?x-expires=1680181200&x-signature=B5GyQR8iA5uTNlJ%2F2vc8W8MrFdY%3D",
+                "avatarMedium": "https://p77-sign-va-lite.tiktokcdn.com/tos-useast2a-avt-0068-giso/00420fa39d39698bd0797fb51f287fd5~c5_720x720.jpeg?x-expires=1680181200&x-signature=njTh3lQyPDeuO5APrYbO6xIU%2FpA%3D",
+                "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/00420fa39d39698bd0797fb51f287fd5~c5_100x100.jpeg?x-expires=1680181200&x-signature=aAhKgBg2EmidHswjCSNlTK2cFe0%3D",
                 "commentSetting": 0,
-                "downloadSetting": 0,
+                "downloadSetting": 3,
                 "duetSetting": 0,
                 "ftc": false,
-                "id": "79829971082305536",
+                "id": "286676186183696384",
                 "isADVirtual": false,
-                "nickname": "TypischCalvin \ud83c\udde9\ud83c\uddea",
+                "nickname": "Aileen Sager | DSDS 2023",
                 "openFavorite": false,
                 "privateAccount": false,
                 "relation": 0,
-                "secUid": "MS4wLjABAAAAvisrx4ZCVGXSqLyLh6fRjw0A3r-XToBi6zs8awWT6GreiGThlaCYZ1G7DNrNPKdx",
+                "roomId": "7215577648435612421",
+                "secUid": "MS4wLjABAAAAof9gS9_ejlyt-NHEaIB55zxMCx9lEhuy5pAEbX4reaChELgEkQ5SEoAJxKzeCzO8",
                 "secret": false,
-                "signature": "Checkt unser Insta ab \ud83d\ude0d\ud83d\udc46\ud83c\udffc\ud83c\udf88",
+                "signature": "\ud83d\udc99\ud83c\udf89DSDS Kandidatin 2023\ud83c\udf89\ud83d\udc99\ud83e\udd73\nLIVE SHOWS !!!\ud83e\udd73\ud83d\udc95\n\u2764\ufe0f\u200d\ud83d\udd25\nInstagram: aileen_sgr",
                 "stitchSetting": 0,
-                "uniqueId": "typischcalvin",
+                "uniqueId": "aileensager",
                 "verified": false
             },
             "challenges": [
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "7184816760011358214",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "title": "dsdskandidatin"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "605",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "title": "fun"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "1691338549157894",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "title": "dsds2023"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "2992384",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "title": "duette"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "5935504",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "title": "gesang"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "489262",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "title": "singen"
+                },
                 {
                     "coverLarger": "",
                     "coverMedium": "",
@@ -38,6 +105,17 @@
                     "profileMedium": "",
                     "profileThumb": "",
                     "title": "foryoupage"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "42164",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "title": "foryou"
                 },
                 {
                     "coverLarger": "",
@@ -55,268 +133,520 @@
                     "coverMedium": "",
                     "coverThumb": "",
                     "desc": "",
-                    "id": "27959",
+                    "id": "229207",
                     "profileLarger": "",
                     "profileMedium": "",
                     "profileThumb": "",
-                    "title": "comdey"
+                    "title": "fyp"
                 },
                 {
                     "coverLarger": "",
                     "coverMedium": "",
                     "coverThumb": "",
                     "desc": "",
-                    "id": "42164",
+                    "id": "1683994290735105",
                     "profileLarger": "",
                     "profileMedium": "",
                     "profileThumb": "",
-                    "title": "foryou"
+                    "title": "schlagerduette"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "795898",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "title": "schlager"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "579672",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "title": "dsds"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "1105452",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "title": "fyyy"
+                },
+                {
+                    "coverLarger": "https://p77-va.tiktokcdn.com/obj/musically-maliva-obj/fa5fcd3ee0a9581fc26d9e3b811e428e",
+                    "coverMedium": "https://p77-va.tiktokcdn.com/obj/musically-maliva-obj/fa5fcd3ee0a9581fc26d9e3b811e428e",
+                    "coverThumb": "https://p77-va.tiktokcdn.com/obj/musically-maliva-obj/fa5fcd3ee0a9581fc26d9e3b811e428e",
+                    "desc": "Habt ihr schon unsere neue Duett-Funktion gecheckt? Oben, unten, links, rechts alles m\u00f6glich jetzt.",
+                    "id": "99770",
+                    "profileLarger": "https://p77-va.tiktokcdn.com/obj/musically-maliva-obj/92760d2f9cce09720b20ae060081efc8",
+                    "profileMedium": "https://p77-va.tiktokcdn.com/obj/musically-maliva-obj/92760d2f9cce09720b20ae060081efc8",
+                    "profileThumb": "https://p77-va.tiktokcdn.com/obj/musically-maliva-obj/92760d2f9cce09720b20ae060081efc8",
+                    "title": "duett"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "Ein Song der nie vergeht!\n\nMacht mit beim neuen Remix von @diemai \ud83d\ude0d  \nEinfach ein Duett machen zur aktuellen Single &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;F\u00fcr Dich&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; und ein live.ly Meet&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;Greet mit Vanessa Mai gewinnen \ud83d\udd25",
+                    "id": "5457735",
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "title": "f\u00fcrdich"
                 }
             ],
             "contents": [
                 {
-                    "desc": "Das habe ich nicht erwartet #foryou #foryoupage #viral #comdey ",
+                    "desc": "Schlager Duett\ud83d\udc95wie fandet ihr unseren Auftritt ??#duett#schlagerduette #duette#dsds#dsds2023#gesang#singen#schlager#dsdskandidatin #fyyy #f\u00fcrdich #foryou #foryoupage #fyp #viral#fun",
                     "textExtra": [
                         {
                             "awemeId": "",
-                            "end": 35,
+                            "end": 56,
+                            "hashtagId": "99770",
+                            "hashtagName": "duett",
+                            "isCommerce": false,
+                            "start": 50,
+                            "subType": 0,
+                            "type": 1
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 71,
+                            "hashtagId": "1683994290735105",
+                            "hashtagName": "schlagerduette",
+                            "isCommerce": false,
+                            "start": 56,
+                            "subType": 0,
+                            "type": 1
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 79,
+                            "hashtagId": "2992384",
+                            "hashtagName": "duette",
+                            "isCommerce": false,
+                            "start": 72,
+                            "subType": 0,
+                            "type": 1
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 84,
+                            "hashtagId": "579672",
+                            "hashtagName": "dsds",
+                            "isCommerce": false,
+                            "start": 79,
+                            "subType": 0,
+                            "type": 1
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 93,
+                            "hashtagId": "1691338549157894",
+                            "hashtagName": "dsds2023",
+                            "isCommerce": false,
+                            "start": 84,
+                            "subType": 0,
+                            "type": 1
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 100,
+                            "hashtagId": "5935504",
+                            "hashtagName": "gesang",
+                            "isCommerce": false,
+                            "start": 93,
+                            "subType": 0,
+                            "type": 1
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 107,
+                            "hashtagId": "489262",
+                            "hashtagName": "singen",
+                            "isCommerce": false,
+                            "start": 100,
+                            "subType": 0,
+                            "type": 1
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 116,
+                            "hashtagId": "795898",
+                            "hashtagName": "schlager",
+                            "isCommerce": false,
+                            "start": 107,
+                            "subType": 0,
+                            "type": 1
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 131,
+                            "hashtagId": "7184816760011358214",
+                            "hashtagName": "dsdskandidatin",
+                            "isCommerce": false,
+                            "start": 116,
+                            "subType": 0,
+                            "type": 1
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 137,
+                            "hashtagId": "1105452",
+                            "hashtagName": "fyyy",
+                            "isCommerce": false,
+                            "start": 132,
+                            "subType": 0,
+                            "type": 1
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 146,
+                            "hashtagId": "5457735",
+                            "hashtagName": "f\u00fcrdich",
+                            "isCommerce": false,
+                            "start": 138,
+                            "subType": 0,
+                            "type": 1
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 154,
                             "hashtagId": "42164",
                             "hashtagName": "foryou",
                             "isCommerce": false,
-                            "start": 28,
+                            "start": 147,
                             "subType": 0,
                             "type": 1
                         },
                         {
                             "awemeId": "",
-                            "end": 47,
+                            "end": 166,
                             "hashtagId": "88764338",
                             "hashtagName": "foryoupage",
                             "isCommerce": false,
-                            "start": 36,
+                            "start": 155,
                             "subType": 0,
                             "type": 1
                         },
                         {
                             "awemeId": "",
-                            "end": 54,
+                            "end": 171,
+                            "hashtagId": "229207",
+                            "hashtagName": "fyp",
+                            "isCommerce": false,
+                            "start": 167,
+                            "subType": 0,
+                            "type": 1
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 178,
                             "hashtagId": "20884",
                             "hashtagName": "viral",
                             "isCommerce": false,
-                            "start": 48,
+                            "start": 172,
                             "subType": 0,
                             "type": 1
                         },
                         {
                             "awemeId": "",
-                            "end": 62,
-                            "hashtagId": "27959",
-                            "hashtagName": "comdey",
+                            "end": 182,
+                            "hashtagId": "605",
+                            "hashtagName": "fun",
                             "isCommerce": false,
-                            "start": 55,
+                            "start": 178,
                             "subType": 0,
                             "type": 1
                         }
                     ]
                 }
             ],
-            "createTime": 1675951556,
-            "desc": "Das habe ich nicht erwartet #foryou #foryoupage #viral #comdey ",
+            "createTime": 1679192189,
+            "desc": "Schlager Duett\ud83d\udc95wie fandet ihr unseren Auftritt ??#duett#schlagerduette #duette#dsds#dsds2023#gesang#singen#schlager#dsdskandidatin #fyyy #f\u00fcrdich #foryou #foryoupage #fyp #viral#fun",
             "digged": false,
             "duetDisplay": 0,
             "duetEnabled": true,
             "forFriend": false,
-            "id": "7198157110461549830",
+            "id": "7212075500578147589",
             "itemCommentStatus": 0,
             "music": {
-                "album": "Tell Me About Time-JP",
-                "authorName": "Lt FitzGibbons Men",
-                "coverLarge": "https://p77-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/anthem_clip_cover.jpeg.jpeg",
-                "coverMedium": "https://p77-sg.tiktokcdn.com/aweme/200x200/tiktok-obj/anthem_clip_cover.jpeg.jpeg",
-                "coverThumb": "https://p77-sg.tiktokcdn.com/aweme/100x100/tiktok-obj/anthem_clip_cover.jpeg.jpeg",
-                "duration": 89,
-                "id": "6999894365447391234",
+                "authorName": "Aileen Sager | DSDS 2023",
+                "coverLarge": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/00420fa39d39698bd0797fb51f287fd5~c5_1080x1080.jpeg?x-expires=1680181200&x-signature=B5GyQR8iA5uTNlJ%2F2vc8W8MrFdY%3D",
+                "coverMedium": "https://p77-sign-va-lite.tiktokcdn.com/tos-useast2a-avt-0068-giso/00420fa39d39698bd0797fb51f287fd5~c5_720x720.jpeg?x-expires=1680181200&x-signature=njTh3lQyPDeuO5APrYbO6xIU%2FpA%3D",
+                "coverThumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/00420fa39d39698bd0797fb51f287fd5~c5_100x100.jpeg?x-expires=1680181200&x-signature=aAhKgBg2EmidHswjCSNlTK2cFe0%3D",
+                "duration": 134,
+                "id": "7212075522746010374",
                 "original": false,
-                "playUrl": "https://sf16-ies-music-va.tiktokcdn.com/obj/tos-useast2a-ve-2774/3c2b16b99d77407f8c7cff1d1c477b2b",
-                "title": "Monkeyshine-JP"
+                "playUrl": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7/oAmCCZQeIDKJpJCBnckUWnIBFUCKJcDbQCqeEJ/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=t2PAl-Inz7T5mz.fiyq8Z&mime_type=audio_mpeg&qs=6&rc=ZzVmOTg2MzozZWhkaThoO0BpMzhsa2Y6ZjM6ajMzNzU8M0A1YF4zMGBeNmIxYGIzNjE2YSNjcDVucjRnLl9gLS1kMTZzcw%3D%3D&btag=80000&expire=1680031085&l=20230328131550A980A11EAED179AD0AF1&ply_type=3&policy=3&signature=121454f584ec5fb0eb360f88ab6c04c7&tk=0",
+                "title": "Originalton"
             },
             "officalItem": false,
             "originalItem": false,
+            "poi": {
+                "address": "Mueang Phuket, Phuket, Thailand",
+                "city": "Mueang Phuket District",
+                "cityCode": "1151984",
+                "country": "",
+                "countryCode": "1605651",
+                "fatherPoiName": "Mueang Phuket District",
+                "id": "21568226255340877",
+                "name": "Phuket Thailand",
+                "province": "",
+                "ttTypeCode": "21a4a0",
+                "ttTypeNameMedium": "Other Recreation and Sport",
+                "ttTypeNameSuper": "Recreation and Sport",
+                "ttTypeNameTiny": "Other Recreation and Sport",
+                "typeCode": "08000000"
+            },
             "privateItem": false,
             "secret": false,
             "shareEnabled": true,
             "stats": {
-                "commentCount": 424,
-                "diggCount": 56600,
-                "playCount": 512800,
-                "shareCount": 100
+                "commentCount": 420,
+                "diggCount": 5468,
+                "playCount": 127300,
+                "shareCount": 37
             },
             "stitchDisplay": 0,
             "stitchEnabled": true,
             "suggestedWords": [
-                "typischcalvin",
-                "Moped Auto"
+                "dsds",
+                "dsds 2023",
+                "aileensager",
+                "Dsds 2023 Top 10",
+                "monika dsds 2023",
+                "dsds entscheidung"
             ],
             "textExtra": [
                 {
                     "awemeId": "",
-                    "end": 35,
+                    "end": 56,
+                    "hashtagId": "99770",
+                    "hashtagName": "duett",
+                    "isCommerce": false,
+                    "start": 50,
+                    "subType": 0,
+                    "type": 1
+                },
+                {
+                    "awemeId": "",
+                    "end": 71,
+                    "hashtagId": "1683994290735105",
+                    "hashtagName": "schlagerduette",
+                    "isCommerce": false,
+                    "start": 56,
+                    "subType": 0,
+                    "type": 1
+                },
+                {
+                    "awemeId": "",
+                    "end": 79,
+                    "hashtagId": "2992384",
+                    "hashtagName": "duette",
+                    "isCommerce": false,
+                    "start": 72,
+                    "subType": 0,
+                    "type": 1
+                },
+                {
+                    "awemeId": "",
+                    "end": 84,
+                    "hashtagId": "579672",
+                    "hashtagName": "dsds",
+                    "isCommerce": false,
+                    "start": 79,
+                    "subType": 0,
+                    "type": 1
+                },
+                {
+                    "awemeId": "",
+                    "end": 93,
+                    "hashtagId": "1691338549157894",
+                    "hashtagName": "dsds2023",
+                    "isCommerce": false,
+                    "start": 84,
+                    "subType": 0,
+                    "type": 1
+                },
+                {
+                    "awemeId": "",
+                    "end": 100,
+                    "hashtagId": "5935504",
+                    "hashtagName": "gesang",
+                    "isCommerce": false,
+                    "start": 93,
+                    "subType": 0,
+                    "type": 1
+                },
+                {
+                    "awemeId": "",
+                    "end": 107,
+                    "hashtagId": "489262",
+                    "hashtagName": "singen",
+                    "isCommerce": false,
+                    "start": 100,
+                    "subType": 0,
+                    "type": 1
+                },
+                {
+                    "awemeId": "",
+                    "end": 116,
+                    "hashtagId": "795898",
+                    "hashtagName": "schlager",
+                    "isCommerce": false,
+                    "start": 107,
+                    "subType": 0,
+                    "type": 1
+                },
+                {
+                    "awemeId": "",
+                    "end": 131,
+                    "hashtagId": "7184816760011358214",
+                    "hashtagName": "dsdskandidatin",
+                    "isCommerce": false,
+                    "start": 116,
+                    "subType": 0,
+                    "type": 1
+                },
+                {
+                    "awemeId": "",
+                    "end": 137,
+                    "hashtagId": "1105452",
+                    "hashtagName": "fyyy",
+                    "isCommerce": false,
+                    "start": 132,
+                    "subType": 0,
+                    "type": 1
+                },
+                {
+                    "awemeId": "",
+                    "end": 146,
+                    "hashtagId": "5457735",
+                    "hashtagName": "f\u00fcrdich",
+                    "isCommerce": false,
+                    "start": 138,
+                    "subType": 0,
+                    "type": 1
+                },
+                {
+                    "awemeId": "",
+                    "end": 154,
                     "hashtagId": "42164",
                     "hashtagName": "foryou",
                     "isCommerce": false,
-                    "start": 28,
+                    "start": 147,
                     "subType": 0,
                     "type": 1
                 },
                 {
                     "awemeId": "",
-                    "end": 47,
+                    "end": 166,
                     "hashtagId": "88764338",
                     "hashtagName": "foryoupage",
                     "isCommerce": false,
-                    "start": 36,
+                    "start": 155,
                     "subType": 0,
                     "type": 1
                 },
                 {
                     "awemeId": "",
-                    "end": 54,
+                    "end": 171,
+                    "hashtagId": "229207",
+                    "hashtagName": "fyp",
+                    "isCommerce": false,
+                    "start": 167,
+                    "subType": 0,
+                    "type": 1
+                },
+                {
+                    "awemeId": "",
+                    "end": 178,
                     "hashtagId": "20884",
                     "hashtagName": "viral",
                     "isCommerce": false,
-                    "start": 48,
+                    "start": 172,
                     "subType": 0,
                     "type": 1
                 },
                 {
                     "awemeId": "",
-                    "end": 62,
-                    "hashtagId": "27959",
-                    "hashtagName": "comdey",
+                    "end": 182,
+                    "hashtagId": "605",
+                    "hashtagName": "fun",
                     "isCommerce": false,
-                    "start": 55,
+                    "start": 178,
                     "subType": 0,
                     "type": 1
                 }
             ],
             "video": {
-                "bitrate": 982218,
+                "bitrate": 763870,
                 "bitrateInfo": [
                     {
-                        "Bitrate": 982218,
+                        "Bitrate": 763870,
                         "CodecType": "h264",
                         "GearName": "normal_720_0",
                         "PlayAddr": {
-                            "DataSize": 4329987,
-                            "FileCs": "c:0-30404-1e25",
-                            "FileHash": "70a3538673775ff55013dc995b46ed9b",
-                            "Uri": "v09044g40000cfifr2rc77u1bt1bm540",
-                            "UrlKey": "v09044g40000cfifr2rc77u1bt1bm540_h264_720p_982218",
+                            "DataSize": 12810114,
+                            "FileCs": "c:0-86884-744d",
+                            "FileHash": "9d8dcab39e89c2b167f39b4ec924b489",
+                            "Uri": "v09044g40000cgb707rc77ud64lhcn60",
+                            "UrlKey": "v09044g40000cgb707rc77ud64lhcn60_h264_720p_763870",
                             "UrlList": [
-                                "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c004/owQRC5DnVIvHUJJdEo2LfkQQnbAJeBgK2BQjPo/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=1918&bt=959&cs=0&ds=3&ft=_RwJrBeUq8ZmoKL3fc_vjyZM8AhLrus&mime_type=video_mp4&qs=0&rc=NzxoZWY1NTxlPDhlNjtkM0BpMzhldzQ6ZjVpaTMzNzczM0A1XjEtLWI1Ni8xMV9iXl9eYSMxai5fcjRvb2ZgLS1kMTZzcw%3D%3D&btag=80000&expire=1679530500&l=20230322181424FF3BCCF76BCBA44A3007&ply_type=2&policy=2&signature=75de82ff8a8c19a30b92c108d0d7d789&tk=tt_chain_token",
-                                "https://v19-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c004/owQRC5DnVIvHUJJdEo2LfkQQnbAJeBgK2BQjPo/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=1918&bt=959&cs=0&ds=3&ft=_RwJrBeUq8ZmoKL3fc_vjyZM8AhLrus&mime_type=video_mp4&qs=0&rc=NzxoZWY1NTxlPDhlNjtkM0BpMzhldzQ6ZjVpaTMzNzczM0A1XjEtLWI1Ni8xMV9iXl9eYSMxai5fcjRvb2ZgLS1kMTZzcw%3D%3D&btag=80000&expire=1679530500&l=20230322181424FF3BCCF76BCBA44A3007&ply_type=2&policy=2&signature=75de82ff8a8c19a30b92c108d0d7d789&tk=tt_chain_token"
+                                "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c004/oIPCW0fCXIzjPNQAgMNotShMyWUjIpsgkMJzcA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=1490&bt=745&cs=0&ds=3&ft=_RwJrBeUq8ZmoL9ZXc_vj.TI8AhLrus&mime_type=video_mp4&qs=0&rc=Z2ZlODY2MzY4Ozk8aDRpOUBpM3FrN2c6Zjo6ajMzNzczM0BfNjYxMDAuNV8xMF42NDAwYSMzYGkzcjRvLV9gLS1kMTZzcw%3D%3D&btag=80000&expire=1680031085&l=20230328131550A980A11EAED179AD0AF1&ply_type=2&policy=2&signature=be7775763d806e6e32c4693ac7f9635f&tk=tt_chain_token",
+                                "https://v19-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c004/oIPCW0fCXIzjPNQAgMNotShMyWUjIpsgkMJzcA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=1490&bt=745&cs=0&ds=3&ft=_RwJrBeUq8ZmoL9ZXc_vj.TI8AhLrus&mime_type=video_mp4&qs=0&rc=Z2ZlODY2MzY4Ozk8aDRpOUBpM3FrN2c6Zjo6ajMzNzczM0BfNjYxMDAuNV8xMF42NDAwYSMzYGkzcjRvLV9gLS1kMTZzcw%3D%3D&btag=80000&expire=1680031085&l=20230328131550A980A11EAED179AD0AF1&ply_type=2&policy=2&signature=be7775763d806e6e32c4693ac7f9635f&tk=tt_chain_token"
                             ]
                         },
                         "QualityType": 10
                     }
                 ],
                 "codecType": "h264",
-                "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/331f0a2c3b13477dbb0123d88efaf5a6_1675951560?x-expires=1679529600&x-signature=WNoZj6XE7w6wIveRd1DdDaq41W4%3D",
+                "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/8a3650599fdd403398aeda8be033c75c_1679192197?x-expires=1680030000&x-signature=fpnarZbVJ091Jz8Dwl4z%2F2NGBaQ%3D",
                 "definition": "720p",
-                "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c004/owQRC5DnVIvHUJJdEo2LfkQQnbAJeBgK2BQjPo/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=1918&bt=959&cs=0&ds=3&ft=_RwJrBeUq8ZmoKL3fc_vjyZM8AhLrus&mime_type=video_mp4&qs=0&rc=NzxoZWY1NTxlPDhlNjtkM0BpMzhldzQ6ZjVpaTMzNzczM0A1XjEtLWI1Ni8xMV9iXl9eYSMxai5fcjRvb2ZgLS1kMTZzcw%3D%3D&btag=80000&expire=1679530500&l=20230322181424FF3BCCF76BCBA44A3007&ply_type=2&policy=2&signature=75de82ff8a8c19a30b92c108d0d7d789&tk=tt_chain_token",
-                "duration": 35,
-                "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4399366b3db14a198fc6f3b10adbcc55_1675951560?x-expires=1679529600&x-signature=XI5M6ZR9N%2FlZMir%2FaKeA637k0Os%3D",
+                "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c004/oIPCW0fCXIzjPNQAgMNotShMyWUjIpsgkMJzcA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=1490&bt=745&cs=0&ds=3&ft=_RwJrBeUq8ZmoL9ZXc_vj.TI8AhLrus&mime_type=video_mp4&qs=0&rc=Z2ZlODY2MzY4Ozk8aDRpOUBpM3FrN2c6Zjo6ajMzNzczM0BfNjYxMDAuNV8xMF42NDAwYSMzYGkzcjRvLV9gLS1kMTZzcw%3D%3D&btag=80000&expire=1680031085&l=20230328131550A980A11EAED179AD0AF1&ply_type=2&policy=2&signature=be7775763d806e6e32c4693ac7f9635f&tk=tt_chain_token",
+                "duration": 134,
+                "dynamicCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d3177a6e85e9423d83d9432bd09e8661_1679192196?x-expires=1680030000&x-signature=gXJshI4vyI4TsZsi7Iy7XV8Jc3c%3D",
                 "encodeUserTag": "",
                 "encodedType": "normal",
                 "format": "mp4",
                 "height": 1024,
-                "id": "7198157110461549830",
-                "originCover": "https://p77-sign-va-lite.tiktokcdn.com/obj/tos-maliva-p-0068/a57eb8cb7b0a4f9eb1f7546e16222c9a_1675951560?x-expires=1679529600&x-signature=JWz%2FMqBjswdZusOmMHL2jyFQIf4%3D",
-                "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c004/owQRC5DnVIvHUJJdEo2LfkQQnbAJeBgK2BQjPo/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=1918&bt=959&cs=0&ds=3&ft=_RwJrBeUq8ZmoKL3fc_vjyZM8AhLrus&mime_type=video_mp4&qs=0&rc=NzxoZWY1NTxlPDhlNjtkM0BpMzhldzQ6ZjVpaTMzNzczM0A1XjEtLWI1Ni8xMV9iXl9eYSMxai5fcjRvb2ZgLS1kMTZzcw%3D%3D&btag=80000&expire=1679530500&l=20230322181424FF3BCCF76BCBA44A3007&ply_type=2&policy=2&signature=75de82ff8a8c19a30b92c108d0d7d789&tk=tt_chain_token",
+                "id": "7212075500578147589",
+                "originCover": "https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/edba8a1c0b0848529b2e866d66c8aa37_1679192195?x-expires=1680030000&x-signature=kIj5dHWGY%2F7hcTQYGuf%2Bcb3ejIU%3D",
+                "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c004/oIPCW0fCXIzjPNQAgMNotShMyWUjIpsgkMJzcA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=1490&bt=745&cs=0&ds=3&ft=_RwJrBeUq8ZmoL9ZXc_vj.TI8AhLrus&mime_type=video_mp4&qs=0&rc=Z2ZlODY2MzY4Ozk8aDRpOUBpM3FrN2c6Zjo6ajMzNzczM0BfNjYxMDAuNV8xMF42NDAwYSMzYGkzcjRvLV9gLS1kMTZzcw%3D%3D&btag=80000&expire=1680031085&l=20230328131550A980A11EAED179AD0AF1&ply_type=2&policy=2&signature=be7775763d806e6e32c4693ac7f9635f&tk=tt_chain_token",
                 "ratio": "720p",
-                "subtitleInfos": [
-                    {
-                        "Format": "webvtt",
-                        "LanguageCodeName": "eng-US",
-                        "LanguageID": "2",
-                        "Size": 955,
-                        "Source": "MT",
-                        "Url": "https://v16-webapp.tiktok.com/5d724cf1ed4f405375d69f5acb37d31e/641b9a04/video/tos/useast2a/tos-useast2a-v-0068/bffa2c53e1a14c18bc553bfc85a2c0b6/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=13800&bt=6900&ds=4&ft=_GC~MBeUq8ZmoKL3fc_vjyZM8AhLrus&mime_type=video_mp4&qs=13&rc=MzhldzQ6ZjVpaTMzNzczM0BpMzhldzQ6ZjVpaTMzNzczM0Axai5fcjRvb2ZgLS1kMTZzYSMxai5fcjRvb2ZgLS1kMTZzcw%3D%3D&l=20230322181424FF3BCCF76BCBA44A3007&btag=40000",
-                        "UrlExpire": 1679530500,
-                        "Version": "4"
-                    },
-                    {
-                        "Format": "webvtt",
-                        "LanguageCodeName": "fra-FR",
-                        "LanguageID": "7",
-                        "Size": 1085,
-                        "Source": "MT",
-                        "Url": "https://v16-webapp.tiktok.com/3b8c5f27f62563620fcad763a3c2ca36/641b9a04/video/tos/useast2a/tos-useast2a-v-0068/d2ef0d5fed764eabb7b2fdfbb7b6b2f8/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=13800&bt=6900&ds=4&ft=_GC~MBeUq8ZmoKL3fc_vjyZM8AhLrus&mime_type=video_mp4&qs=13&rc=MzhldzQ6ZjVpaTMzNzczM0BpMzhldzQ6ZjVpaTMzNzczM0Axai5fcjRvb2ZgLS1kMTZzYSMxai5fcjRvb2ZgLS1kMTZzcw%3D%3D&l=20230322181424FF3BCCF76BCBA44A3007&btag=40000",
-                        "UrlExpire": 1679530500,
-                        "Version": "4"
-                    },
-                    {
-                        "Format": "webvtt",
-                        "LanguageCodeName": "por-PT",
-                        "LanguageID": "8",
-                        "Size": 1013,
-                        "Source": "MT",
-                        "Url": "https://v16-webapp.tiktok.com/c99f0e607cf91a0e0f4b8b2c7e0013f4/641b9a04/video/tos/useast2a/tos-useast2a-v-0068/c6dc22d3ee9c4717be6beb720e89c69f/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=13800&bt=6900&ds=4&ft=_GC~MBeUq8ZmoKL3fc_vjyZM8AhLrus&mime_type=video_mp4&qs=13&rc=MzhldzQ6ZjVpaTMzNzczM0BpMzhldzQ6ZjVpaTMzNzczM0Axai5fcjRvb2ZgLS1kMTZzYSMxai5fcjRvb2ZgLS1kMTZzcw%3D%3D&l=20230322181424FF3BCCF76BCBA44A3007&btag=40000",
-                        "UrlExpire": 1679530500,
-                        "Version": "4"
-                    },
-                    {
-                        "Format": "webvtt",
-                        "LanguageCodeName": "ita-IT",
-                        "LanguageID": "26",
-                        "Size": 1045,
-                        "Source": "MT",
-                        "Url": "https://v16-webapp.tiktok.com/0bc851ba42e8de747f66086048e0e686/641b9a04/video/tos/useast2a/tos-useast2a-v-0068/7f5e641bef124fe1867878ca0abe5bc9/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=13800&bt=6900&ds=4&ft=_GC~MBeUq8ZmoKL3fc_vjyZM8AhLrus&mime_type=video_mp4&qs=13&rc=MzhldzQ6ZjVpaTMzNzczM0BpMzhldzQ6ZjVpaTMzNzczM0Axai5fcjRvb2ZgLS1kMTZzYSMxai5fcjRvb2ZgLS1kMTZzcw%3D%3D&l=20230322181424FF3BCCF76BCBA44A3007&btag=40000",
-                        "UrlExpire": 1679530500,
-                        "Version": "4"
-                    },
-                    {
-                        "Format": "webvtt",
-                        "LanguageCodeName": "deu-DE",
-                        "LanguageID": "20",
-                        "Size": 631,
-                        "Source": "ASR",
-                        "Url": "https://v16-webapp.tiktok.com/8a771c74efada1a9a4f340465de7888b/641b9a04/video/tos/useast2a/tos-useast2a-v-0068/41a085804a7e4c7cb7c90c9fdeb22cbe/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=13800&bt=6900&ds=4&ft=_GC~MBeUq8ZmoKL3fc_vjyZM8AhLrus&mime_type=video_mp4&qs=13&rc=MzhldzQ6ZjVpaTMzNzczM0BpMzhldzQ6ZjVpaTMzNzczM0Axai5fcjRvb2ZgLS1kMTZzYSMxai5fcjRvb2ZgLS1kMTZzcw%3D%3D&l=20230322181424FF3BCCF76BCBA44A3007&btag=40000",
-                        "UrlExpire": 1679530500,
-                        "Version": "1"
-                    },
-                    {
-                        "Format": "webvtt",
-                        "LanguageCodeName": "cmn-Hans-CN",
-                        "LanguageID": "1",
-                        "Size": 1002,
-                        "Source": "MT",
-                        "Url": "https://v16-webapp.tiktok.com/8854ce59043aa5fb436dd348d3129876/641b9a04/video/tos/useast2a/tos-useast2a-v-0068/ae0f24708037492482f1ac687989e606/?a=1988&ch=0&cr=0&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C0&cv=1&br=13800&bt=6900&ds=4&ft=_GC~MBeUq8ZmoKL3fc_vjyZM8AhLrus&mime_type=video_mp4&qs=13&rc=MzhldzQ6ZjVpaTMzNzczM0BpMzhldzQ6ZjVpaTMzNzczM0Axai5fcjRvb2ZgLS1kMTZzYSMxai5fcjRvb2ZgLS1kMTZzcw%3D%3D&l=20230322181424FF3BCCF76BCBA44A3007&btag=40000",
-                        "UrlExpire": 1679530500,
-                        "Version": "4"
-                    }
-                ],
                 "videoQuality": "normal",
                 "volumeInfo": {
-                    "Loudness": -13.5,
-                    "Peak": 1
+                    "Loudness": -22.1,
+                    "Peak": 0.4217
                 },
                 "width": 576,
                 "zoomCover": {
-                    "240": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/331f0a2c3b13477dbb0123d88efaf5a6_1675951560~tplv-f5insbecw7-1:240:240.jpeg?x-expires=1679529600&x-signature=ghTpMLspM9Oq6SRf1ly6rLkNuRg%3D",
-                    "480": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/331f0a2c3b13477dbb0123d88efaf5a6_1675951560~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1679529600&x-signature=pbPscUMKpZEOJgrVFPHSw7Y0oPE%3D",
-                    "720": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/331f0a2c3b13477dbb0123d88efaf5a6_1675951560~tplv-f5insbecw7-1:720:720.jpeg?x-expires=1679529600&x-signature=KQGL6QVBE4zt0HD7scjN0vx9d5Y%3D",
-                    "960": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/331f0a2c3b13477dbb0123d88efaf5a6_1675951560~tplv-f5insbecw7-1:960:960.jpeg?x-expires=1679529600&x-signature=LRrNnDb8dIpli3B%2BiSHLm7pAqFQ%3D"
+                    "240": "https://p77-sign-va-lite.tiktokcdn.com/tos-maliva-p-0068/8a3650599fdd403398aeda8be033c75c_1679192197~tplv-f5insbecw7-1:240:240.jpeg?x-expires=1680030000&x-signature=RgLyQ01tMAXaZSBq3M%2Bos0ycQ8s%3D",
+                    "480": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8a3650599fdd403398aeda8be033c75c_1679192197~tplv-f5insbecw7-1:480:480.jpeg?x-expires=1680030000&x-signature=QxynJG%2Fs24fDnQB2HeYgTSHG9mA%3D",
+                    "720": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8a3650599fdd403398aeda8be033c75c_1679192197~tplv-f5insbecw7-1:720:720.jpeg?x-expires=1680030000&x-signature=7jy864JdaFqMNKNJuy864e0sPJc%3D",
+                    "960": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/8a3650599fdd403398aeda8be033c75c_1679192197~tplv-f5insbecw7-1:960:960.jpeg?x-expires=1680030000&x-signature=WtWgV1WfIjOHbn7AJ0OumhepldA%3D"
                 }
             }
         }
     },
     "log_pb": {
-        "impr_id": "20230322181424FF3BCCF76BCBA44A3007"
+        "impr_id": "20230328131550A980A11EAED179AD0AF1"
     },
     "shareMeta": {
-        "desc": "Das habe ich nicht erwartet #foryou #foryoupage #viral #comdey ",
-        "title": "TypischCalvin \ud83c\udde9\ud83c\uddea on TikTok"
+        "desc": "Schlager Duett\ud83d\udc95wie fandet ihr unseren Auftritt ??#duett#schlagerduette #duette#dsds#dsds2023#gesang#singen#schlager#dsdskandidatin #fyyy #f\u00fcrdich #foryou #foryoupage #fyp #viral#fun",
+        "title": "Aileen Sager | DSDS 2023 on TikTok"
     },
     "statusCode": 0,
     "status_code": 0
