@@ -9,4 +9,4 @@ RUN apt install ffmpeg -y
 
 COPY . .
 
-CMD [ "python", "./main.py" ]
+CMD [ "gunicorn", "app:app" ]
