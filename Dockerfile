@@ -9,4 +9,4 @@ RUN apt install ffmpeg -y
 
 COPY . .
 
-CMD [ "gunicorn", "app:app" ]
+CMD [ "gunicorn", "main:app" ]
