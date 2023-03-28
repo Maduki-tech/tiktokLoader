@@ -2,3 +2,4 @@ tiktokapi
 moviepy
 customtkinter
 CTkMessagebox
+flask
